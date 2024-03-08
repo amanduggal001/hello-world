@@ -9,7 +9,7 @@
 
 <body> 
 	<div class="main"> 
-		<h1>GeeksforGeeks</h1> 
+		<h1>Sex Registration form</h1> 
 		<form action=""> 
 			<label for="first">First Name:</label> 
 			<input type="text" id="first"
