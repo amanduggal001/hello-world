@@ -2,14 +2,14 @@
 <html> 
 
 <head> 
-	<title>AMAN DUGGAL WEDDING REGISTRATION FORM</title> 
+	<title>AMAN REGISTRATION FORM</title> 
 	<link rel="stylesheet"
 		href="style.css"> 
 </head> 
 
 <body> 
 	<div class="main"> 
-		<h1>Registration form</h1> 
+		<h1>Aman Registration FORM</h1> 
 		<form action=""> 
 			<label for="first">First Name:</label> 
 			<input type="text" id="first"
