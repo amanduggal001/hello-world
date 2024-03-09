@@ -2,7 +2,7 @@
 <html> 
 
 <head> 
-	<title>Registration Form</title> 
+	<title>AMAN DUGGAL WEDDING REGISTRATION FORM</title> 
 	<link rel="stylesheet"
 		href="style.css"> 
 </head> 
