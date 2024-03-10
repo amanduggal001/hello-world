@@ -2,20 +2,20 @@
 <html> 
 
 <head> 
-	<title>AMAN REGISTRATION FORM</title> 
+	<title>REGISTRATION FORM</title> 
 	<link rel="stylesheet"
 		href="style.css"> 
 </head> 
 
 <body> 
 	<div class="main"> 
-		<h1>Aman Registration FORM</h1> 
+		<h1>Holi Party Registration FORM</h1> 
 		<form action=""> 
 			<label for="first">First Name:</label> 
 			<input type="text" id="first"
 				name="first"
 				placeholder="Enter your first name" required> 
-			<br>
+			
 			<label for="last">Last Name:</label> 
 			<input type="text" id="last"
 				name="last"
