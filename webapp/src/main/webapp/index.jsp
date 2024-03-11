@@ -9,7 +9,7 @@
 
 <body> 
 	<div class="main"> 
-		<h1>Holi Party Registration FORM fuck off</h1> 
+		<h1>Holi Party Registration FORM fuck offff</h1> 
 		<form action=""> 
 			<label for="first">First Name:</label> 
 			<input type="text" id="first"
