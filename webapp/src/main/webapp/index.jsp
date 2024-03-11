@@ -9,7 +9,7 @@
 
 <body> 
 	<div class="main"> 
-		<h1>Final Registration Form</h1> 
+		<h1>Final Registration Form (Last date 12 march 2024)</h1> 
 		<form action=""> 
 			<label for="first">First Name:</label> 
 			<input type="text" id="first"
