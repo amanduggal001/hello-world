@@ -2,7 +2,7 @@
 <html> 
 
 <head> 
-	<title>REGISTRATION FORM - Please (Fill Untill March)</title> 
+	<title>REGISTRATION FORM -- Please (Fill Untill March)</title> 
 	<link rel="stylesheet"
 		href="style.css"> 
 </head> 
