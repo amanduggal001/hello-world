@@ -2,7 +2,7 @@
 <html> 
 
 <head> 
-	<title>DevOps Registration Form (FINAL)/title> 
+	<title>DevOps Registration Form/title> 
 	<link rel="stylesheet"
 		href="style.css"> 
 </head> 
@@ -15,7 +15,7 @@
 			<input type="text" id="first"
 				name="first"
 				placeholder="Enter your first name" required> 
-			 <br>
+
 			<label for="last">Last Name:</label> 
 			<input type="text" id="last"
 				name="last"
