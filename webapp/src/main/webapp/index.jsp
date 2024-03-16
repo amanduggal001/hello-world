@@ -2,7 +2,7 @@
 <html> 
 
 <head> 
-	<title>REGISTRATION FORM ---- Please (Fill Untill March)</title> 
+	<title>DevOps Registration Form (FINAL)/title> 
 	<link rel="stylesheet"
 		href="style.css"> 
 </head> 
@@ -11,11 +11,11 @@
 	<div class="main"> 
 		<h1>Final Registration Form (Last date 12 march 2024)</h1> 
 		<form action=""> 
-			<label for="first">First Name:</label> 
+			<label for="first">Engineer First Name:</label> 
 			<input type="text" id="first"
 				name="first"
 				placeholder="Enter your first name" required> 
-			
+			 <br>
 			<label for="last">Last Name:</label> 
 			<input type="text" id="last"
 				name="last"
