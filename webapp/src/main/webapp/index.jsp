@@ -1,74 +1,37 @@
-<!DOCTYPE html> 
-<html> 
+<form action="action_page.php">
+  <div class="container">
+    <h1>New user Register for DevOps Learning</h1>
+    <p>Please fill in this form to create an account.</p>
+    <hr>
+     
+    <label for="Name"><b>Enter Name</b></label>
+    <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
+    <br>
+    
+    <label for="mobile"><b>Enter mobile</b></label>
+    <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
+    <br>
 
-<head> 
-	<title>DevOps Registration Form/title> 
-	<link rel="stylesheet"
-		href="style.css"> 
-</head> 
+    <label for="email"><b>Enter Email</b></label>
+    <input type="text" placeholder="Enter Email" name="email" id="email" required>
+    <br>
 
-<body> 
-	<div class="main"> 
-		<h1>Final Registration Form (Last date 12 march 2024)</h1> 
-		<form action=""> 
-			<label for="first">Engineer First Name:</label> 
-			<input type="text" id="first"
-				name="first"
-				placeholder="Enter your first name" required> 
+    <label for="psw"><b>Password</b></label>
+    <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
+    <br>
 
-			<label for="last">Last Name:</label> 
-			<input type="text" id="last"
-				name="last"
-				placeholder="Enter your last name" required> 
- 			<br>
-			<label for="email">Email:</label> 
-			<input type="email" id="email"
-				name="email"
-				placeholder="Enter your email" required> 
-			<br>
-			<label for="dob">Date of Birth:</label> 
-			<input type="date"
-				id="dob" name="dob"
-				placeholder="Enter your DOB" required> 
-			<br>
-			<label for="password">Password:</label> 
-			<input type="password" id="password"
-				name="password"
-				placeholder="Enter your password"
-				pattern= 
-				"^(?=.*\d)(?=.*[a-zA-Z])(?=.*[^a-zA-Z0-9])\S{8,}$" required				 
-				title="Password must contain at least one number, 
-					one alphabet, one symbol, and be at 
-					least 8 characters long"> 
-			<br>
-			<label for="repassword">Re-type Password:</label> 
-			<input type="password" id="repassword"
-				name="repassword"
-				placeholder="Re-Enter your password" required> 
-			<span id="pass"></span> 
+    <label for="psw-repeat"><b>Repeat Password</b></label>
+    <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
+    <hr>
+    <br>
+    <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
+    <button type="submit" class="registerbtn">Register</button>
+  </div>
+  <div class="container signin">
+    <p>Already have an account? <a href="#">Sign in</a>.</p>
+  </div>
 
-			<label for="mobile">Contact:</label> 
-			<input type="text" id="mobile"
-				name="mobile"
-				placeholder="Enter your Mobile Number" required 
-				maxlength="10"> 
+   <h1> Thankyou, Happy Learning </h1>
 
-			<label for="gender">Gender:</label> 
-			<select id="gender" name="gender" required> 
-				<option value="male">Male</option> 
-				<option value="female">Female</option> 
-				<option value="other">Other</option> 
-			</select> 
-
-			<div class="wrap"> 
-				<button type="submit" onclick="solve()"> 
-				Submit 
-				</button> 
-			</div> 
-		</form> 
-	</div> 
-	<script src="script.js"></script> 
-</body> 
-
-</html>
-
+  
+</form>
